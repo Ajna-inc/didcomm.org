@@ -1,5 +1,5 @@
 ---
-title: Mesh Networking
+title: Mesh
 publisher: vinaysingh8866
 license: MIT
 piuri: https://didcomm.org/mesh/1.0
